@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Anthony Posso 👋
 
-<!--
-**anthonydev51/anthonydev51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Python and Web developer currently diving into **C#** and **C++** to expand my skills.  
+I love building efficient, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Skills
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Learning:** C#, C++  
+- **Operating Systems:** Windows, Linux, macOS  
+- **Web Development:** Frontend & Backend 
+
+---
+
+## 📈 GitHub Stats
+
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonydev51&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+
+- 🌐 [Website](anthonydev.xyz)  
+
+---
+
+## 📂 Featured Projects
+
+- **Pathyxis** (upcoming) – A web-based open source malware scanner leveraging the VirusTotal API to help keep your systems safe.  
+  Currently in private development, launching soon!
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me.
