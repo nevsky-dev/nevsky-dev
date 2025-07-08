@@ -21,7 +21,7 @@ I love building efficient, scalable, and user-friendly applications.
 
 ## 🔗 Connect with me
 
-- 🌐 [Website](anthonydev.xyz)  
+- 🌐 [Website](https://www.anthonydev.xyz)  
 
 ---
 
