@@ -1,11 +1,11 @@
-# Hi there, I'm Anthony Posso 👋
+# Hi there, I'm Anthony 👋
 
 I'm a passionate Python and Web developer currently diving into **C#** and **C++** to expand my skills.  
 I love building efficient, scalable, and user-friendly applications.
 
 ---
 
-## 🚀 Technologies & Skills
+## 🚀 Skills
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Learning:** C#, C++  
 - **Operating Systems:** Windows, Linux, macOS  
@@ -21,7 +21,7 @@ I love building efficient, scalable, and user-friendly applications.
 
 ## 🔗 Connect with me
 
-- 🌐 [Website](https://www.anthonydev.xyz)  
+- 🌐 [Website] Coming soon...
 
 ---
 
