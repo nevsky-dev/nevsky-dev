@@ -28,7 +28,7 @@ I love building efficient, scalable, and user-friendly applications.
 ## 📂 Featured Projects
 
 - **Pathyxis** – A web-based open source malware scanner leveraging the VirusTotal API to help keep your systems safe.  
-  Currently in private development, launching soon!
+  
 
 ---
 
