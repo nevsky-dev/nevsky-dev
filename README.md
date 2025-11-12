@@ -21,7 +21,7 @@ I love building efficient, scalable, and user-friendly applications.
 
 ## 🔗 Connect with me
 
-- 🌐 [Website] Coming soon...
+- 🌐 [Website] (http://nevsky.space/)
 
 - 📷 [Instagram] @nevskywld
 
