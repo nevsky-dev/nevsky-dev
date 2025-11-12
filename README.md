@@ -23,6 +23,8 @@ I love building efficient, scalable, and user-friendly applications.
 
 - 🌐 [Website] Coming soon...
 
+- 📷 [Instagram] @nevskywld
+
 ---
 
 ## 📂 Featured Projects
