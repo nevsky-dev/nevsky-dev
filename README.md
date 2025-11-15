@@ -25,6 +25,8 @@ I love building efficient, scalable, and user-friendly applications.
 
 - 📷 [Instagram] @nevskywld
 
+- ☕ [Stack Overflow] (https://stackoverflow.com/users/31883116/nevsky-dev)
+
 ---
 
 ## 📂 Featured Projects
