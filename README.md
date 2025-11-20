@@ -32,7 +32,9 @@ I love building efficient, scalable, and user-friendly applications.
 ## 📂 Featured Projects
 
 - **Pathyxis** – A web-based open source malware scanner leveraging the VirusTotal API to help keep your systems safe.  
-  
+
+- **Simple Sorting Algorithm Visualizer** - As the name suggests, it is a simple sorting algorith visualizer, 
+  made in Python using Tkinter and Matplotlib
 
 ---
 
