@@ -1,3 +1,5 @@
+![Header](./nevskyheader.png)
+
 # Hi there, I'm Anthony 👋
 
 I'm a passionate Python and Web developer currently diving into **C#** and **C++** to expand my skills.  
