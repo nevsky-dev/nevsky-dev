@@ -19,7 +19,7 @@ I love building efficient, scalable, and user-friendly applications.
 
 ## 📈 GitHub Stats
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevsky-dev&show_icons=true&theme=tokyonight)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevsky-dev&show_icons=true&theme=dark)
 
 ---
 
