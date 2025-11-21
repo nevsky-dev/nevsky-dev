@@ -23,19 +23,19 @@ I love building efficient, scalable, and user-friendly applications.
 
 ## 🔗 Connect with me
 
-- 🌐 [Website] (http://nevsky.space/)
+- 🌐 [Website](http://nevsky.space/)
 
-- 📷 [Instagram] @nevskywld
+- 📷 [Instagram](https://www.instagram.com/nevskywld/)
 
-- ☕ [Stack Overflow] (https://stackoverflow.com/users/31883116/nevsky-dev)
+- ☕ [Stack Overflow](https://stackoverflow.com/users/31883116/nevsky-dev)
 
 ---
 
 ## 📂 Featured Projects
 
-- **Pathyxis** – A web-based open source malware scanner leveraging the VirusTotal API to help keep your systems safe.  
+- [**Pathyxis**](https://github.com/nevsky-dev/pathyxis) – A web-based open source malware scanner leveraging the VirusTotal API to help keep your systems safe.  
 
-- **Simple Sorting Algorithm Visualizer** - As the name suggests, it is a simple sorting algorithm visualizer, 
+- [**Simple Sorting Algorithm Visualizer**](https://github.com/nevsky-dev/simple-sorting-visualizer) - As the name suggests, it is a simple sorting algorithm visualizer, 
   made in Python using Tkinter and Matplotlib
 
 ---
