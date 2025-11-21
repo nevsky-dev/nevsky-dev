@@ -11,7 +11,9 @@ I love building efficient, scalable, and user-friendly applications.
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Learning:** C#, C++  
 - **Operating Systems:** Windows, Linux, macOS  
-- **Web Development:** Frontend & Backend 
+- **Web Development:** Frontend & Backend
+- **Server & Infrastructure**
+- **Electronics & Embedded Systems**
 
 ---
 
